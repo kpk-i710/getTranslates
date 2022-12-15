@@ -1,0 +1,644 @@
+[
+  {
+    "arab": "سَكَنْتُمْ",
+    "russ": "вы жили (много мужчин)",
+    "en": "you lived (many men)",
+    "fr": "tu as vécu (beaucoup d'hommes)"
+  },
+  {
+    "arab": "مَاذَا",
+    "russ": "что",
+    "en": "what",
+    "fr": "Quel"
+  },
+  {
+    "arab": "فَعَلْتُمْ",
+    "russ": "вы сделали (много мужчин)",
+    "en": "you did (a lot of men)",
+    "fr": "vous avez fait (beaucoup d'hommes)"
+  },
+  {
+    "arab": "أَنَا",
+    "russ": "я",
+    "en": "I",
+    "fr": "je"
+  },
+  {
+    "arab": "أَيُّ",
+    "russ": "какой",
+    "en": "which",
+    "fr": "qui"
+  },
+  {
+    "arab": "الْكِتَابَ",
+    "russ": "книга",
+    "en": "book",
+    "fr": "livre"
+  },
+  {
+    "arab": "قَرَأْتَ",
+    "russ": "ты читал (1 мужчина)",
+    "en": "you read (1 man)",
+    "fr": "tu lis (1 homme)"
+  },
+  {
+    "arab": "رَجَعْتُ",
+    "russ": "я вернулся",
+    "en": "I returned",
+    "fr": "je suis rentré"
+  },
+  {
+    "arab": "مَسْجِدٍ",
+    "russ": "мечеть",
+    "en": "mosque",
+    "fr": "mosquée"
+  },
+  {
+    "arab": "خَرَجَ",
+    "russ": "он вышел (1 мужчина)",
+    "en": "he went out (1 man)",
+    "fr": "il est sorti (1 homme)"
+  },
+  {
+    "arab": "خَرَجْتُ",
+    "russ": "я вышел",
+    "en": "I went out",
+    "fr": "Je suis sorti"
+  },
+  {
+    "arab": "مِنْ",
+    "russ": "из",
+    "en": "from",
+    "fr": "de"
+  },
+  {
+    "arab": "مَتْحَفٍ",
+    "russ": "музей",
+    "en": "museum",
+    "fr": "musée"
+  },
+  {
+    "arab": "جَلَسْتُ",
+    "russ": "я сидел",
+    "en": "I sat",
+    "fr": "je me suis assis"
+  },
+  {
+    "arab": "عَلَى",
+    "russ": "на",
+    "en": "on the",
+    "fr": "sur le"
+  },
+  {
+    "arab": "إِلَى",
+    "russ": "к, направление",
+    "en": "direction",
+    "fr": "direction"
+  },
+  {
+    "arab": "أَيْنَ",
+    "russ": "куда | где",
+    "en": "where",
+    "fr": "où"
+  },
+  {
+    "arab": "ذَهَبْتَ",
+    "russ": "ты пошел (1 мужчина)",
+    "en": "you went (1 man)",
+    "fr": "tu es allé (1 homme)"
+  },
+  {
+    "arab": "رَكِبْتُ",
+    "russ": "я оседлал",
+    "en": "I saddled",
+    "fr": "je sellais"
+  },
+  {
+    "arab": "سيارة",
+    "russ": "автомобиль",
+    "en": "automobile",
+    "fr": "voiture"
+  },
+  {
+    "arab": "ذَهَبْتُ",
+    "russ": "я пошел",
+    "en": "I went",
+    "fr": "Je suis allé"
+  },
+  {
+    "arab": "إِلى",
+    "russ": "куда-то , направление",
+    "en": "somewhere, direction",
+    "fr": "quelque part, direction"
+  },
+  {
+    "arab": "بيت",
+    "russ": "дом",
+    "en": "house",
+    "fr": "loger"
+  },
+  {
+    "arab": "دَرَسَ",
+    "russ": "он учился",
+    "en": "he studied",
+    "fr": "il a étudié"
+  },
+  {
+    "arab": "مُحَمَّدٌ",
+    "russ": "Мохаммед",
+    "en": "Mohammed",
+    "fr": "Mohammed"
+  },
+  {
+    "arab": "فِي",
+    "russ": "в, внутри",
+    "en": "in, inside",
+    "fr": "à l'intérieur"
+  },
+  {
+    "arab": "المَدْرَسَةِ",
+    "russ": "школа",
+    "en": "school",
+    "fr": "école"
+  },
+  {
+    "arab": "فَهِمْتُ",
+    "russ": "я понял",
+    "en": "I understand",
+    "fr": "je comprends"
+  },
+  {
+    "arab": "دَرْس",
+    "russ": "урок",
+    "en": "lesson",
+    "fr": "leçon"
+  },
+  {
+    "arab": "شَرِبْتُ",
+    "russ": "я пил",
+    "en": "I drank",
+    "fr": "j'ai bu"
+  },
+  {
+    "arab": "قهوة",
+    "russ": "кофе",
+    "en": "coffee",
+    "fr": "café"
+  },
+  {
+    "arab": "بَحَثْتُ",
+    "russ": "я искал",
+    "en": "I was looking for",
+    "fr": "je cherchais"
+  },
+  {
+    "arab": "عَنْ",
+    "russ": "от, из",
+    "en": "from, from",
+    "fr": "de, de"
+  },
+  {
+    "arab": "هَذا",
+    "russ": "это",
+    "en": "this is",
+    "fr": "c'est"
+  },
+  {
+    "arab": "فَعَلْتُ",
+    "russ": "я сделал",
+    "en": "I did",
+    "fr": "Je l'ai fait"
+  },
+  {
+    "arab": "هُوَ",
+    "russ": "он",
+    "en": "he",
+    "fr": "il"
+  },
+  {
+    "arab": "رَكِبَ",
+    "russ": "он оседлал",
+    "en": "he saddled",
+    "fr": "il a sellé"
+  },
+  {
+    "arab": "سَمِعْتُ",
+    "russ": "я слышал",
+    "en": "I heard",
+    "fr": "J'ai entendu"
+  },
+  {
+    "arab": "سَمِعَ",
+    "russ": "он услышал",
+    "en": "He heard",
+    "fr": "Il a entendu"
+  },
+  {
+    "arab": "أَيَنَ",
+    "russ": "куда",
+    "en": "where",
+    "fr": "où"
+  },
+  {
+    "arab": "حَفِظَ",
+    "russ": "он выучил",
+    "en": "he learned",
+    "fr": "il a appris"
+  },
+  {
+    "arab": "مَحَمَّدٌ",
+    "russ": "Мохаммед",
+    "en": "Mohammed",
+    "fr": "Mohammed"
+  },
+  {
+    "arab": "الْقُرْانَ",
+    "russ": "Коран",
+    "en": "Koran",
+    "fr": "Coran"
+  },
+  {
+    "arab": "نَظَرْتَ",
+    "russ": "ты посмотрел",
+    "en": "you looked",
+    "fr": "tu as regardé"
+  },
+  {
+    "arab": "الْحَدِيقَةِ",
+    "russ": "сад",
+    "en": "garden",
+    "fr": "jardin"
+  },
+  {
+    "arab": "الْحَيْوَانَاتِ",
+    "russ": "животные",
+    "en": "animals",
+    "fr": "animaux"
+  },
+  {
+    "arab": "ذَهَبَ",
+    "russ": "он ушел",
+    "en": "he left",
+    "fr": "il est parti"
+  },
+  {
+    "arab": "فَهِمَ",
+    "russ": "он понял",
+    "en": "he understood",
+    "fr": "il a compris"
+  },
+  {
+    "arab": "بَحَثَ",
+    "russ": "он искал",
+    "en": "he searched",
+    "fr": "il a cherché"
+  },
+  {
+    "arab": "فَعَلَ",
+    "russ": "он делал",
+    "en": "he did",
+    "fr": "Il a fait"
+  },
+  {
+    "arab": "نَحْنُ",
+    "russ": "мы",
+    "en": "we",
+    "fr": "nous"
+  },
+  {
+    "arab": "خَرَجْنَا",
+    "russ": "мы вышли",
+    "en": "we went out",
+    "fr": "nous sommes sortis"
+  },
+  {
+    "arab": "جَلَسْنَا",
+    "russ": "мы сели",
+    "en": "we sat down",
+    "fr": "nous nous sommes assis"
+  },
+  {
+    "arab": "كُرْسِيٍ",
+    "russ": "стул",
+    "en": "chair",
+    "fr": "chaise"
+  },
+  {
+    "arab": "رَجَعْنَا",
+    "russ": "мы вернулись",
+    "en": "We have returned",
+    "fr": "Nous avons retourné"
+  },
+  {
+    "arab": "رَكِبْنَا",
+    "russ": "мы оседлали",
+    "en": "we saddled",
+    "fr": "nous avons sellé"
+  },
+  {
+    "arab": "مَا",
+    "russ": "что",
+    "en": "what",
+    "fr": "Quel"
+  },
+  {
+    "arab": "مَاَ",
+    "russ": "что",
+    "en": "what",
+    "fr": "Quel"
+  },
+  {
+    "arab": "كَتَبْتُمْ",
+    "russ": "вы написали ( много мужчин)",
+    "en": "you wrote (many men)",
+    "fr": "vous avez écrit (beaucoup d'hommes)"
+  },
+  {
+    "arab": "الدَّفْتَرِ",
+    "russ": "тетрадь",
+    "en": "notebook",
+    "fr": "carnet"
+  },
+  {
+    "arab": "سَمِعْنَا",
+    "russ": "мы слышали",
+    "en": "we heard",
+    "fr": "nous avons entendu"
+  },
+  {
+    "arab": "ذَهَبْنَا",
+    "russ": "мы пошли",
+    "en": "we are going",
+    "fr": "nous allons"
+  },
+  {
+    "arab": "فَهِمْنَا",
+    "russ": "мы поняли",
+    "en": "we understood",
+    "fr": "nous avons compris"
+  },
+  {
+    "arab": "",
+    "russ": "",
+    "en": "",
+    "fr": ""
+  },
+  {
+    "arab": "أَنْتَ",
+    "russ": "ты (1 мужчина)",
+    "en": "you (1 man)",
+    "fr": "vous (1 homme)"
+  },
+  {
+    "arab": "خَرَجْتَ",
+    "russ": "ты вышел (1 мужчина)",
+    "en": "you got out (1 man)",
+    "fr": "tu es sorti (1 homme)"
+  },
+  {
+    "arab": "جَلَسْتَ",
+    "russ": "ты сел (1 мужчина)",
+    "en": "you sat down (1 man)",
+    "fr": "tu t'es assis (1 homme)"
+  },
+  {
+    "arab": "رَجَعْتَ",
+    "russ": "ты вернулся (1 мужчина)",
+    "en": "you're back (1 man)",
+    "fr": "tu es de retour (1 homme)"
+  },
+  {
+    "arab": "فَهِمْتَ",
+    "russ": "ты понял (1 мужчина)",
+    "en": "did you understand (1 man)",
+    "fr": "as-tu compris (1 homme)"
+  },
+  {
+    "arab": "الدَّرْسِ",
+    "russ": "урок",
+    "en": "lesson",
+    "fr": "leçon"
+  },
+  {
+    "arab": "رَكِبْتَ",
+    "russ": "ты оседлал (1 мужчина)",
+    "en": "you saddled (1 man)",
+    "fr": "tu as sellé (1 homme)"
+  },
+  {
+    "arab": "سَمِعْتَ",
+    "russ": "ты услышал (1 мужчина)",
+    "en": "you hear (1 man)",
+    "fr": "as-tu entendu (1 homme)"
+  },
+  {
+    "arab": "ذَهَبْتُنَّ",
+    "russ": "вы пошли ( много женщин)",
+    "en": "you went (lots of women)",
+    "fr": "vous êtes allé (beaucoup de femmes)"
+  },
+  {
+    "arab": "الْيَوْمَا",
+    "russ": "сегодня",
+    "en": "today",
+    "fr": "aujourd'hui"
+  },
+  {
+    "arab": "شَرِبْتَ",
+    "russ": "ты пил ( 1 мужчина)",
+    "en": "you drank (1 man)",
+    "fr": "tu as bu (1 homme)"
+  },
+  {
+    "arab": "بَحَثْتَ",
+    "russ": "ты искал ( 1 мужчина)",
+    "en": "you were looking for (1 man)",
+    "fr": "vous cherchiez (1 homme)"
+  },
+  {
+    "arab": "فَعَلْتَ",
+    "russ": "ты сделал (1 мужчина)",
+    "en": "you did (1 man)",
+    "fr": "tu as fait (1 homme)"
+  },
+  {
+    "arab": "أَنْتُمْ",
+    "russ": "вы (много мужчин)",
+    "en": "you (many men)",
+    "fr": "vous (beaucoup d'hommes)"
+  },
+  {
+    "arab": "خَرَجْتُمْ",
+    "russ": "вы ушли (много мужчин)",
+    "en": "you left (many men)",
+    "fr": "tu as quitté (beaucoup d'hommes)"
+  },
+  {
+    "arab": "جَلَسْتُمْ",
+    "russ": "вы сели (много мужчин)",
+    "en": "you sat down (many men)",
+    "fr": "tu t'es assis (beaucoup d'hommes)"
+  },
+  {
+    "arab": "بحَثْتِ",
+    "russ": "ты искал (1 мужчина)",
+    "en": "you were looking for (1 man)",
+    "fr": "vous cherchiez (1 homme)"
+  },
+  {
+    "arab": "الْمِخْزَنَةِ",
+    "russ": "шкаф",
+    "en": "cupboard",
+    "fr": "armoire"
+  },
+  {
+    "arab": "رَجَعْتُمْ",
+    "russ": "вы вернулись (много мужчин)",
+    "en": "you are back (many men)",
+    "fr": "tu es de retour (beaucoup d'hommes)"
+  },
+  {
+    "arab": "رَكِبْتُمْ",
+    "russ": "вы оседлали ( много мужчин)",
+    "en": "you saddled (lots of men)",
+    "fr": "tu as sellé (beaucoup d'hommes)"
+  },
+  {
+    "arab": "سَمِعْتُمْ",
+    "russ": "вы услышали (много мужчин)",
+    "en": "you heard (many men)",
+    "fr": "vous avez entendu (beaucoup d'hommes)"
+  },
+  {
+    "arab": "لِمَاذَا",
+    "russ": "Почему",
+    "en": "Why",
+    "fr": "Pourquoi"
+  },
+  {
+    "arab": "حَضَرْتَ",
+    "russ": "ты пришел ( 1 мужчина)",
+    "en": "you came (1 man)",
+    "fr": "tu es venu (1 homme)"
+  },
+  {
+    "arab": "اليَومَ",
+    "russ": "Cегодня",
+    "en": "Today",
+    "fr": "aujourd'hui"
+  },
+  {
+    "arab": "الْمُسْتَشْفى",
+    "russ": "больница",
+    "en": "hospital",
+    "fr": "hôpital"
+  },
+  {
+    "arab": "ذَهَبْتُمْ",
+    "russ": "вы пошли (много мужчин)",
+    "en": "you went (many men)",
+    "fr": "tu es allé (beaucoup d'hommes)"
+  },
+  {
+    "arab": "فَهِمْتُمْ",
+    "russ": "вы поняли (много мужчин)",
+    "en": "you understand (many men)",
+    "fr": "tu comprends (beaucoup d'hommes)"
+  },
+  {
+    "arab": "شَرِبْتُمْ",
+    "russ": "вы пили (много мужчин)",
+    "en": "you drank (many men)",
+    "fr": "tu as bu (beaucoup d'hommes)"
+  },
+  {
+    "arab": "لَمَاذَ",
+    "russ": "Почему, зачем",
+    "en": "Why, why",
+    "fr": "Pourquoi pourquoi"
+  },
+  {
+    "arab": "سَفَرْتُمْ",
+    "russ": "вы путешествовали (много мужчин)",
+    "en": "you traveled (many men)",
+    "fr": "tu as voyagé (beaucoup d'hommes)"
+  },
+  {
+    "arab": "مِصْر",
+    "russ": "Египет",
+    "en": "Egypt",
+    "fr": "Egypte"
+  },
+  {
+    "arab": "بَحَثْتُمْ",
+    "russ": "вы искали (много мужчин)",
+    "en": "you were looking for (many men)",
+    "fr": "tu cherchais (beaucoup d'hommes)"
+  },
+  {
+    "arab": "أَنْتُنَّ",
+    "russ": "вы (много женщин)",
+    "en": "you (many women)",
+    "fr": "vous (beaucoup de femmes)"
+  },
+  {
+    "arab": "خَرَجْتُنَّ",
+    "russ": "вы вышли (много женщин)",
+    "en": "you went out (many women)",
+    "fr": "tu es sortie (beaucoup de femmes)"
+  },
+  {
+    "arab": "شَرَبَتْ",
+    "russ": "она пила ( одна женщина)",
+    "en": "she drank (one woman)",
+    "fr": "elle a bu (une femme)"
+  },
+  {
+    "arab": "مَرْيمُ",
+    "russ": "Мариам",
+    "en": "Mariam",
+    "fr": "Mariam"
+  },
+  {
+    "arab": "جَلَسْتُنَّ",
+    "russ": "вы сели (много женщин)",
+    "en": "you sat down (many women)",
+    "fr": "tu t'es assise (beaucoup de femmes)"
+  },
+  {
+    "arab": "رَجَعْتُنَّ",
+    "russ": "вы вернулись (много женщин)",
+    "en": "you are back (many women)",
+    "fr": "tu es de retour (beaucoup de femmes)"
+  },
+  {
+    "arab": "بَيْت",
+    "russ": "дом",
+    "en": "house",
+    "fr": "loger"
+  },
+  {
+    "arab": "رَكِبْتُنَّ",
+    "russ": "вы оседлали ( много женщин)",
+    "en": "you saddled (lots of women)",
+    "fr": "tu as sellé (beaucoup de femmes)"
+  },
+  {
+    "arab": "الْمَسْجِدِ",
+    "russ": "мечеть",
+    "en": "mosque",
+    "fr": "mosquée"
+  },
+  {
+    "arab": "سَمِعْتُنَّ",
+    "russ": "вы услышали (много женщин)",
+    "en": "you heard (many women)",
+    "fr": "vous avez entendu (beaucoup de femmes)"
+  },
+  {
+    "arab": "فَهِمْتُنَّ",
+    "russ": "вы поняли (много женщин)",
+    "en": "you get it (many women)",
+    "fr": "vous l'obtenez (beaucoup de femmes)"
+  }
+]
