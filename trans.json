@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "arab": "سَكَنْتُمْ",
     "russ": "вы жили (много мужчин)",
@@ -940,5 +940,185 @@
     "russ": "Фатима",
     "en": "Fatima",
     "fr": "Fátima"
+  },
+  {
+    "arab": "",
+    "russ": "",
+    "en": "",
+    "fr": ""
+  },
+  {
+    "arab": "خَرَجْتُمَا",
+    "russ": "вы двое вышли",
+    "en": "you two left",
+    "fr": "vous êtes partis tous les deux"
+  },
+  {
+    "arab": "رَجَعْتُمَا",
+    "russ": "вы двое вернулись",
+    "en": "you two are back",
+    "fr": "vous deux êtes de retour"
+  },
+  {
+    "arab": "أَنْتُمَا",
+    "russ": "вы двое",
+    "en": "you two",
+    "fr": "toi aussi"
+  },
+  {
+    "arab": "شَرِبْتُمَا",
+    "russ": "вы двое пили",
+    "en": "you two were drinking",
+    "fr": "vous buviez tous les deux"
+  },
+  {
+    "arab": "الشَّايَ",
+    "russ": "чай",
+    "en": "tea",
+    "fr": "thé"
+  },
+  {
+    "arab": "رَكِبْتُمَا",
+    "russ": "вы двое оседлали",
+    "en": "you two saddled",
+    "fr": "vous deux sellés"
+  },
+  {
+    "arab": "ذَهَبْتُمَا",
+    "russ": "вы двое пошли",
+    "en": "you two went",
+    "fr": "vous êtes allés tous les deux"
+  },
+  {
+    "arab": "البيت",
+    "russ": "дом",
+    "en": "house",
+    "fr": "loger"
+  },
+  {
+    "arab": "ذَهَبْتُمَا",
+    "russ": "вы двое пошли",
+    "en": "you two went",
+    "fr": "vous êtes allés tous les deux"
+  },
+  {
+    "arab": "و",
+    "russ": "и",
+    "en": "and",
+    "fr": "et"
+  },
+  {
+    "arab": "أَحْمَدٌ",
+    "russ": "Ахмед",
+    "en": "Ahmed",
+    "fr": "Ahmed"
+  },
+  {
+    "arab": "سَمِعَا",
+    "russ": "они вдое слышали",
+    "en": "they have heard",
+    "fr": "ils ont entendu"
+  },
+  {
+    "arab": "الدّرْسِ",
+    "russ": "урок",
+    "en": "lesson",
+    "fr": "leçon"
+  },
+  {
+    "arab": "فَهِمْتُمَا",
+    "russ": "вы двое поняли",
+    "en": "you two understand",
+    "fr": "vous comprenez tous les deux"
+  },
+  {
+    "arab": "الدَرْس",
+    "russ": "урок",
+    "en": "lesson",
+    "fr": "leçon"
+  },
+  {
+    "arab": "بَحَثْتُمَا",
+    "russ": "вы двое искали",
+    "en": "you two were looking for",
+    "fr": "vous cherchiez tous les deux"
+  },
+  {
+    "arab": "فَعَلْتُمَا",
+    "russ": "вы двое делали",
+    "en": "you two did",
+    "fr": "vous deux avez fait"
+  },
+  {
+    "arab": "هُمَا",
+    "russ": "они двое",
+    "en": "they are two",
+    "fr": "ils sont deux"
+  },
+  {
+    "arab": "جَلَسَا",
+    "russ": "они двое сели",
+    "en": "the two sat down",
+    "fr": "les deux se sont assis"
+  },
+  {
+    "arab": "رَسَمَتْ",
+    "russ": "она рисовала",
+    "en": "she painted",
+    "fr": "elle a peint"
+  },
+  {
+    "arab": "الدّفْتَرِ",
+    "russ": "тетрадь",
+    "en": "notebook",
+    "fr": "carnet"
+  },
+  {
+    "arab": "رَجَعَا",
+    "russ": "они двое вернулись",
+    "en": "the two are back",
+    "fr": "les deux sont de retour"
+  },
+  {
+    "arab": "ذَهَبَا",
+    "russ": "они двое пошли",
+    "en": "the two of them went",
+    "fr": "les deux sont allés"
+  },
+  {
+    "arab": "بَحَثَا",
+    "russ": "они двое искали",
+    "en": "the two of them were looking for",
+    "fr": "les deux cherchaient"
+  },
+  {
+    "arab": "خَرَجَتَا",
+    "russ": "они двое вышли",
+    "en": "they two went out",
+    "fr": "ils sont sortis tous les deux"
+  },
+  {
+    "arab": "جَلَسَتَا",
+    "russ": "они вдое сидели",
+    "en": "they were sitting",
+    "fr": "ils étaient assis"
+  },
+  {
+    "arab": "رَكِبَتَا",
+    "russ": "они вдое оседлали",
+    "en": "they straddled",
+    "fr": "ils chevauchaient"
+  },
+  {
+    "arab": "سَمِعَتَا",
+    "russ": "они двое слышали",
+    "en": "they both heard",
+    "fr": "ils ont tous les deux entendu"
+  },
+  {
+    "arab": "فَهِمَتَا",
+    "russ": "они двое поняли",
+    "en": "they both understood",
+    "fr": "ils ont compris tous les deux"
   }
 ]
